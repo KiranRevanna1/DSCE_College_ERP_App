@@ -61,7 +61,7 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Teacher Page
 
-![alt text](https://imgur.com/pMAoEbG.png)
+![alt text](https://imgur.com/7DMzyJz.png)
 
 ![alt text](https://imgur.com/ZiQ3RRA.png)
 
@@ -77,7 +77,7 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Student Page
 
-![alt text](https://imgur.com/isL9cjz.png)
+![alt text](https://imgur.com/iRWVJHR.png)
 
 ![alt text](https://imgur.com/5pzl7m3.png)
 
